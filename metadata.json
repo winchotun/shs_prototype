@@ -1,0 +1,6 @@
+{
+  "name": "Shwe Hnin Si Batik Atelier - စီမံခန့်ခွဲမှုစနစ်",
+  "description": "Artisanal Hand-Wax Batik Control Center - နေ့စဉ် ထုတ်လုပ်မှုနှင့် အရောင်းစီမံခန့်ခွဲမှုစနစ် (Shwe Hnin Si Atelier)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
